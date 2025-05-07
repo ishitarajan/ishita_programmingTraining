@@ -12,5 +12,7 @@ public class Ports {
     public static final int frontLeftSteer = 1;
     public static final int backRightSteer = 5;
     public static final int frontRightSteer = 3;
+
+    public static final int pivot = 13;
     
 }
